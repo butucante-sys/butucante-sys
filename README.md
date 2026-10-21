@@ -24,7 +24,7 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:butucante@gmail.com">
+  <a href="https://cornhub.website/">
     <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ff00e5&labelColor=0d1117&color=ff00e5" />
   </a>
   <a href="https://www.linkedin.com/in/batuxan-nazari-371114260/" target="_blank">

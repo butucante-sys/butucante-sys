@@ -56,12 +56,6 @@
 
 <br/>
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=butucante-sys&bg_color=0d1117&color=ff00e5&line=00f0ff&point=ffffff&area=true&area_color=00f0ff&hide_border=true" />
-</div>
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
